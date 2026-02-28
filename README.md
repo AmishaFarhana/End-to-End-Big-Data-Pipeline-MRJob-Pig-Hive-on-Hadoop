@@ -128,7 +128,6 @@ Apache Pig (Min / Max Aggregation)
         ↓
 Apache Hive (Average Aggregation via SQL)
 
-
 This pipeline demonstrates **layered distributed processing** across multiple Hadoop ecosystem components.
 
 ---

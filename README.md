@@ -119,13 +119,13 @@ ORDER BY year;
 
 ## 🏗️ End-to-End Architecture
 Raw NOAA Data (.gz files)
-↓
+        ↓
 Python MRJob (MapReduce Processing)
-↓
+        ↓
 Structured Year–Temperature Dataset
-↓
+        ↓
 Apache Pig (Min / Max Aggregation)
-↓
+        ↓
 Apache Hive (Average Aggregation via SQL)
 
 

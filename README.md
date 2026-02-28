@@ -105,7 +105,7 @@ SELECT year, AVG(temperature) AS avg_temp
 FROM year_temp
 GROUP BY year
 ORDER BY year;
-
+```
 
 ## 📌 Key Learnings
 
